@@ -1,0 +1,4 @@
+- olá meu nome é @gabriel777a
+- meu email de conato é henriquede.araujo@escola.pr.gov.br.
+- 👀 eu estou interessado em progamar novas linguagens.
+- 🌱 Eu estou aprendendo a progamar recentemente a linguagem de javascrit e scratch
